@@ -394,6 +394,3 @@ Here are some recommended best practices when using this framework:
 
 In addition to these, Playwright also recommends following certain best practices. You can find more details in the [Playwright Best Practices documentation](https://playwright.dev/docs/best-practices)
 
-## Contribution guide
-
-Contributions are welcome! Please read the contributing guidelines first. (In progress)
