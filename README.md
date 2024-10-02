@@ -1,12 +1,9 @@
-![Last Commit](https://img.shields.io/github/last-commit/vasu31dev/playwright-ts) ![Pull Requests](https://img.shields.io/github/issues-pr-raw/vasu31dev/playwright-ts)
-
+![Last Commit](https://img.shields.io/github/last-commit/amit-automationQA/Playwright-Typescript) ![Pull Requests](https://img.shields.io/github/issues-pr-raw/amit-automationQA/Playwright-Typescript)
 ---
 
 <div align="center">
 
-# 🚀 Elevate Your Automation: Redefining the Future of Testing, Where Precision Meets Efficiency.
-
-## Playwright TypeScript Framework: "Your One-Stop Solution for Web (Desktop & Mobile), API, and Electron Testing"
+# ![alt text](image.png) Playwright TypeScript Framework
 
 </div>
 
