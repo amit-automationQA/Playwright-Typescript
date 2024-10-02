@@ -1,9 +1,13 @@
 ![Last Commit](https://img.shields.io/github/last-commit/amit-automationQA/Playwright-Typescript) ![Pull Requests](https://img.shields.io/github/issues-pr-raw/amit-automationQA/Playwright-Typescript)
 ---
 
-<div align="center">
+<div style ="text-align: center;">
 
-# ![alt text](image.png) Playwright TypeScript Framework
+# <img src="image-2.png" alt="Play logo" style ="width:4%;"/> Playwright TypeScript Framework
+
+</div>
+
+<div style ="text-align: center;">
 
 </div>
 
